@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\Wep_scraping\Wep_scraping\obj\Debug\Wep_scraping.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Wep_scraping\Wep_scraping\obj\Debug\Wep_scraping.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Wep_scraping\Wep_scraping\bin\Debug\Wep_scraping.exe.config
+C:\Users\hp\source\repos\Wep_scraping\Wep_scraping\bin\Debug\Wep_scraping.exe
+C:\Users\hp\source\repos\Wep_scraping\Wep_scraping\bin\Debug\Wep_scraping.pdb
+C:\Users\hp\source\repos\Wep_scraping\Wep_scraping\bin\Debug\HtmlAgilityPack.dll
+C:\Users\hp\source\repos\Wep_scraping\Wep_scraping\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\hp\source\repos\Wep_scraping\Wep_scraping\bin\Debug\HtmlAgilityPack.xml
+C:\Users\hp\source\repos\Wep_scraping\Wep_scraping\obj\Debug\Wep_scraping.csproj.CopyComplete
+C:\Users\hp\source\repos\Wep_scraping\Wep_scraping\obj\Debug\Wep_scraping.exe
+C:\Users\hp\source\repos\Wep_scraping\Wep_scraping\obj\Debug\Wep_scraping.pdb
